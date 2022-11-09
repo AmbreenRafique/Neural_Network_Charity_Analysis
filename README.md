@@ -48,10 +48,15 @@ chaning in neurons, and activation functions to compare the performance is as fo
 ![SC performance](https://user-images.githubusercontent.com/108497494/200900233-0a83f30c-7f60-4e4e-a641-020b8e3af18e.jpg)
 
 Tryed different Models by changing 
+
 1: The number of Nuerons in each model and/or
+
 2: Activation functions and/or
+
 3: dropping extra rows in the DataFrame and/or
+
 4: Increasing/dicreasing the number of Epochs in the Models 
+ 
  It doesn't make any noticeable differance in accuracy or the performance of any of the models.
  I was not able to achieve the target model performance.
 
